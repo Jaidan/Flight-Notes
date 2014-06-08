@@ -44,16 +44,14 @@ Medical
 Expire at end of calendar month
 If you could not pass your physical examination on that day your medical is not valid.
 
-* Third Class
-* * Private
-* * * Under 40, 60 months
-* * * Over 40, 24 months
-* Second Class
-* * Commercial 12 months
-* First Class
-* * ATP
-* * * Under 40, 12 months
-* * * Over 40, 6 months
+* Third Class \(Private\)
+    * Under 40, 60 months
+    * Over 40, 24 months
+* Second Class \(Commercial\)
+    * 12 months
+* First Class \(ATP\)
+    * Under 40, 12 months
+    * Over 40, 6 months
 
 Airplane Class And Category
 ---------------------------
