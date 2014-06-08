@@ -3,7 +3,7 @@ Part 61 Pilot certification and training
 
 PIC or requrired crewmember must have pilot cert and med cert and picture ID
 
-Pilot Certification Classes
+Pilot Certifications
 ---------------------------
 * Student
 * Sport
@@ -12,22 +12,32 @@ Pilot Certification Classes
 * Commercial
 * ATP
 
-Pilot Certification Ratings
+Pilot Ratings
 ---------------------------
-Two types of ratings
-
-### Class Ratings
-Correspond to the aircraft class
+Four types of ratings
 
 ### Category Ratings
-Correspond to the aircraft category
+Airplane
+Rotorcraft
+Glider
+Powered-lift 
+
+### Class Ratings
+* SEL
+* MEL
+* SES
+* MES
+* Helicopter
+* Gyroplane
+
+### Type Ratings
+Type ratings are specific to the plane.  Required for planes for 12,500lbs
+or powered by turbojets
 
 ### Additional Ratings
 * Instrument
 * CFII
 * Multi-engine instructor
-
-Correspond to the the aircraft categories
 
 CFI certificate must be renewed every 24months
 Student certificates expire with the underlying medical
@@ -35,6 +45,12 @@ All others never expire
 
 ### Flight Review
 Requied to act as PIC.  24month renewal.  Any instructor. 1 hour of ground instruction, review of part 91 and one of flight time.  Wings program can be used as a substitute. Checkride for new cert or rating also constitutes a flight review.
+
+### Currency
+*Required for passengers*
+3 takoff and landings within 90 days.  Any plane allowed
+Tailwheel is separate
+Night is separate, and is specific to the same category and class.  Also must be completed during one hour after sunset and one hour before sunrise.
 
 ### Change of address
 Report within 30 days
@@ -57,24 +73,22 @@ Airplane Class And Category
 ---------------------------
 
 ### Category
-* Airplane
-* Rotorcraft
-* Light-Than-Air
-* Glider
-* Powered-lift
+* Normal
+* Utility
+* Acrobatic
+* Restricted
+* Experimental
+* Transport
+* Limited
+* Provisional
 
 ### Class
-* SEL
-* MEL
-* SES
-* MES
-* Helicopter
-* Gyroplane
-
-### Type
-Type ratings are specific to the plane.  Required for planes for 12,500lbs
-or powered by turbojets
-
+Airplane
+Rotorcraft
+Glider
+Balloon
+Landplane
+Seaplane
 
 ### HP
 200 Horsepower, requires endorsement
@@ -204,43 +218,143 @@ Airport Unsafe
 ##### Alternating Red/Green
 General Warning
 
-### Class Alpha
-May not be used without instrument rating and clearance.  Begins at 18,000 feet MSL
-
-### Fuel Requirements
+Fuel Requirements
+-----------------
 Daytime: Fuel to reach destination + 30min
 Nighttime: Fuel to reach destination + 45min
 
-### VFR weather minimums
+VFR weather minimums
+--------------------
 
-#### Alpha
+### Alpha
 N/A
 
-#### Bravo
+### Bravo
 3sm and clear of clouds
 
-#### Charlie
+### Charlie
 3sm and 152
 
-#### Delta
+### Delta
 3sm and 152
 
-#### Echo < 10k
+### Echo < 10k
 3sm and 152
 
-#### Echo >10k
+### Echo >10k
 5sm and 1 above or below and 1sm horizontally
 
-#### Gulf <1,200 AGL Day
+### Gulf <1,200 AGL Day
 1sm and clear of clouds
-#### Gulf <1,200 AGL Night
+### Gulf <1,200 AGL Night
 3sm and 152 
 
-#### Gulf >1,200 AGL <10k MSL Day
+### Gulf >1,200 AGL <10k MSL Day
 1sm and 152
 #### Gulf >1,200 AGL <10k MSL Night
 3sm and 152
 
-#### Gulf > 1,200 AGL >10k MSL
+### Gulf > 1,200 AGL >10k MSL
 5sm and 1 above or below and 1sm horizontally
+
+### Acrobatics
+Prohibited over congested areas, assemblage of people, and withing the lateral bounds of Bravo, Charlie, Delta, and Echo.  As well as belo 1,500 AGL or less and 3sm
+
+
+VRF Cruising Altitudes
+----------------------
+Magnetic Course 0-179 inclusive Odd + 500.
+Magnetic Course 180-359 inclusive Even + 500.
+
+Odd people live in the east
+
+Aircraft Operating Requirements \(Docs and Equipment\)
+------------------------------------------------------
+
+### Docs
+A - Certificate of Airworthiness
+
+R - Radio Station License
+
+R - Registration
+
+O - Operating Limitations
+
+W - Weight and Balance data
+
+Radio station license not required for domestic flights.
+
+### Equipment
+
+#### Mandatory
+* ELT
+* Lights
+    * At all times
+        * Anticollision lights/beacon
+    * From sunrise to sunset
+        * Position lights
+            * Left Wingtip - Red
+            * Right Wingtip - Green
+            * Tail - White
+#### Conditional
+* ATC Transponder with mode C required in Bravo and Charlie as well as above 10k MSL.  Also while within 30miles of a Bravo or within the horizontal area of a Charlie
+* Supplemental Oxygen required for flight above 12,500 for more than 30min, above 14,000 at all times, above 15,000 passengers require oxygen.
+* Parachutes are required if bank angle exceeds 60 or pitch 30.  120 repack requirement
+
+
+Operation
+---------
+Restricted Category forbidden over congested or populated areas
+
+Experimental forbidden over densly populated areas or on a congested airway until they have a waiver.
+
+Operation after maintenance should be done under fair weather conditions and is required before carrying passengers
+
+Inspections must be conducted annually for not for hire aircraft and every 100 hours for hire.
+
+Airspace
+---------
+
+### Alpha
+May not be used without instrument rating and clearance.  Begins at 18,000 feet MSL.  All aircraft operate with altimeter 29.92
+
+Accidents, incidents, and reporting
+----------------------------------
+NASA's ASRS form grants immunity from certificate action if filed within 10 days of any inadvertant violation.  May only be used once per 5 years
+
+NTSB 830 - Accident Reporting
+-----------------------------
+Notification of the NTSB is required immediatly \(usually done by FAA\), with 10 days to submit a report if required.  Don't let anyone touch the plane except to prevent further damage
+Accident is an occurrence during which any person suffers death or serious injury, or one in which the aircraft receives substantial damage. 
+
+Serious Injury is any injury that requires hospitalization for more than 48 hours within days of the injury
+
+### Required reporting incidents
+* Flight control malfunction or failure
+* Inability of a required crewmember to perform flight duties as a result of injury or illness
+* Failure of structural components of a turbine engine, including compressor and turbine blades and vanes.
+* In flight fire
+* Aircraft collision in flight
+* EFIS or PFD failure
+* TCAS alert while under IFR
+* Propeller failure other than ground strike
+
+### Does not require reporting
+* Engine Failure
+* Damage limited to an engine
+* Bent fairings or cowling
+* Dented skin
+* Small puncture holes in the skin or fabric
+* Ground damage to rotor or propeller blades
+* Damage to landing gear, wheels, tires, brakes, flaps, engine acces., wing tips
+
+Part 43 - Maintenance
+=====================
+Owner/Operator can preform prevenative maintenance
+
+Inspection Periods
+------------------
+All inspections are due on the last day of the month unless otherwise noted
+Transponder 24 months
+Annual 12 months
 
