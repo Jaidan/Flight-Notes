@@ -299,7 +299,7 @@ Radio station license not required for domestic flights.
 #### Conditional
 * ATC Transponder with mode C required in Bravo and Charlie as well as above 10k MSL.  Also while within 30miles of a Bravo or within the horizontal area of a Charlie
 * Supplemental Oxygen required for flight above 12,500 for more than 30min, above 14,000 at all times, above 15,000 passengers require oxygen.
-* Parachutes are required if bank angle exceeds 60 or pitch 30.  120 repack requirement
+* Parachutes are required if bank angle exceeds 60 or pitch 30.  180 repack requirement. 
 
 
 Operation
@@ -357,4 +357,4 @@ Inspection Periods
 All inspections are due on the last day of the month unless otherwise noted
 Transponder 24 months
 Annual 12 months
-
+Airworthiness Certificates are effective as long as the maintenance, preventive maintenance, and alterations are performed in accordance with Parts 43 and 91 and the aircraft are registered in the United States.
