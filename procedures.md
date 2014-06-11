@@ -14,3 +14,7 @@ Surface Operations
 Elevator neutral in headwind
 Upwind aileron held up in crosswind
 Elevator held in down poistion and upwind aileron down when taxing in a quartering tailwind
+
+A/FD
+-----
+Updated every 56 days.
