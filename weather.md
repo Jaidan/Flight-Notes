@@ -25,7 +25,8 @@ Temperature & Moisture Pressure
 -------------------------------
 Standard temp = 15C at sea level \(59F\)
 Standard pressure = 29.92in/hg
--2C per 1000F \(3.5F\)
+Temperature Lapse Rate -2C per 1000ft \(3.5F\)
+Temperature Dew point conversion 2.4C \(4.4F\) per 1000ft
 
 Temperature increase with altitude is known as an inversion
 
@@ -75,9 +76,5 @@ Moist stable air is blown up a slope.  Cools at 3C per 1000ft
 ### Precipitation Fog
 Evaporation from rain saturates the low level air and forms fog
 
-
 ### Steam fog
 Forms in winter when cold dry air passes over ocean waters
-
-Icing
------
