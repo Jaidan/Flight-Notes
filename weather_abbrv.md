@@ -3,6 +3,7 @@ METAR & TAF Weather Report
 Weather Identifiers:
 ====================
 
+|Col1|Col2|
 |------------------------|------------------------|
 |B Began | BC Patches |
 |BL Blowing | BR Mist|
