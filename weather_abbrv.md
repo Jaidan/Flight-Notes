@@ -596,7 +596,7 @@ R
 =
 
 | | |
-|--|--|
+|---|---|
 |R - Rain |RADAT - Radiosonde observation data  |
 |RAOB - Radiosonde observation |RAOBS - Radiosonde observations  |
 |RCH - Reach |RCHD - Reached  |
