@@ -1,180 +1,81 @@
 METAR & TAF Weather Report
---------------------------
 
 Weather Identifiers:
 ====================
 
-B Began
-
-BC Patche
-
-BL Blowing
-
-BR Mist
-
-DR Low Drifting
-
-DS Dust storm
-
-DU Dust
-
-DZ Drizzle
-
-E Ended
-
-FC, +FC Funnel Cloud,
-   Well-Developed Funnel
-   Cloud Tornado or
-   Waterspout
-
-FG Fog
-
-FU Smoke
-
-FZ Freezing
-
-GR Hail
-
-GS Small Hail or Snow
-      Pellets (< 1/4)
-
-HZ Haze
-
-IC Ice Crystal
-
-MI Shallow
-
-PE Ice Pellet
-
-PO Well-Developed
-      Dust/Sand Whirl
-
-PR Partial
-
-PY Spray
-
-RA Rain
-
-SA Sand
-
-SG Snow Grain
-
-SH Shower
-
-SN Snow
-
-SQ Squalls Moderate
-
-SS Sandstorm
-
-TS Thunderstorm
-
-UP Unknown Precipitation
-
-VA Volcanic A
-
-VC In the Vicinity
+|------------------------|------------------------|
+|B Began | BC Patches |
+|BL Blowing | BR Mist|
+|DR Low Drifting | DS Dust storm|
+|DU Dust| DZ Drizzle|
+|E   Ended| FC, +FC Funnel Cloud, Well-Developed Funnel Cloud Tornado or Waterspout |
+|FG Fog| |FU Smoke|
+|FZ Freezing| GR Hail|
+|GS Small Hail or Snow Pellets (< 1/4) |HZ Haze|
+|IC Ice Crystal| MI Shallow|
+|PE Ice Pellet| PO Well-Developed Dust/Sand Whirl|
+|PR Partial| PY Spray|
+| RA Rain| SA Sand| 
+|SG Snow Grain| SH Shower|
+|SN Snow| SQ Squalls Moderate|
+| SS Sandstorm| TS Thunderstorm|
+| UP Unknown Precipitation| VA Volcanic A|
+| VC In the Vicinity|   |
 
 Modifiers:   - Light      + Heavy     P More than     M Less than      B Began     E Ended
 
 Sky Conditions:
 
 BKN – Broken cloud layer 5/8ths to 7/8t
-
 CB – Cumulonimbu
-
 CLR – Sky clear at or below 12,000AGL
-
 FEW – Few cloud layer 0/8ths to 2/8t
-
 OVC – Overcast cloud layer 8/8ths coverage
-
 SCT – Scattered cloud layer 3/8ths to 4/8t
-
 SKC – Sky Clear
-
 TCU – Towering Cumulu
 
 Other:
 
 A01 – Automated Observation without precipitation discrimination
-
 A02 – Automated Observation with precipitation discrimination
-
 A3000 – Altimeter setting 30.00”
-
 AMD – Amended forecast
-
 APCLM - Airport Closed due to meteorological condition
-
 APRSM - Airport Restricted due to meteorological condn
-
 AUTO – without human editing
-
 BECMG – Becoming…  BECMG 0002 = becoming 00 to 02 Zulu
-
 CAVU – Ceiling and visibility unlimited
-
 COR – Correction
-
 DSNT – Distant weather phenomenon
-
 FM – From…   FM0200 = from 0200 Zulu
-
 FROPA – Frontal Passage
-
 LDG – Landing
-
 M – Minus, below zero, “less than”
-
 NO – Not available
-
 NSW – No significant weather
-
 P6SM – Plus 6 Statute Miles, greater than, “more than”
-
 PK WND – Peak Wind
-
 PRESFR/PRESRR – Pressure Falling or Rising RapidlyPROB40 – Probability of 40%
-
 R04 – Runway 4
-
 RMK – Remark
-
 RWY – Runway
-
 RVRNO – Runway Visual Range not available
-
 SFC VIS – Surface Visibility
-
 SLP – Sea Level Pressure, add 10 to numbers given
-
 SLPNO – Sea Level Pressure not available
-
 SM – Statute mile
-
 SPECI – Special Report
-
 TEMPO – Temporarily…  TEMPO 0002 = Temporarily 00 to 02 Zulu
-
 T02560179 – Temperature 25.6 dew point 17.9
-
 TWR VIS – Tower Visibility
-
 V – Varying
-
 VRB – Variable
-
 VRB VIS – Variable Visibility
-
 VV – Vertical Visibility, indefinite ceiling
-
 WS – Wind shear
-
 WSHFT - Wind shift
-
 Area Forecast Weather Report
-----------------------------
 
 AAF - Army Air Field
 AAL - above aerodrome level
