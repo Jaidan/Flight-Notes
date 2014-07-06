@@ -26,18 +26,14 @@ Weather Identifiers:
 * __B__ Began
 * __E__ Ended
 
-Sky Conditions:
+###Sky Conditions:
 
-BKN – Broken cloud layer 5/8ths to 7/8t
-CB – Cumulonimbu
-CLR – Sky clear at or below 12,000AGL
-FEW – Few cloud layer 0/8ths to 2/8t
-OVC – Overcast cloud layer 8/8ths coverage
-SCT – Scattered cloud layer 3/8ths to 4/8t
-SKC – Sky Clear
-TCU – Towering Cumulu
+| | | |
+|BKN Broken cloud layer 5/8ths to 7/8t |CB Cumulonimbus |CLR Sky clear at or below 12,000AGL |
+|FEW Few cloud layer 0/8ths to 2/8t |OVC Overcast cloud layer 8/8ths coverage |SCT Scattered cloud layer 3/8ths to 4/8t |
+|SKC Sky Clear |TCU Towering Cumulus | |
 
-Other:
+###Other:
 
 A01 – Automated Observation without precipitation discrimination
 A02 – Automated Observation with precipitation discrimination
