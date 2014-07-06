@@ -19,7 +19,12 @@ Weather Identifiers:
 
 ###Modifiers:
 
-__-__ Light      __+__ Heavy     __P__ More than     __M__ Less than      __B__ Began     __E__ Ended
+* __-__ Light
+* __+__ Heavy
+* __P__ More than
+* __M__ Less than
+* __B__ Began
+* __E__ Ended
 
 Sky Conditions:
 
