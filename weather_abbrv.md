@@ -1,4 +1,5 @@
 METAR & TAF Weather Report
+--------------------------
 
 Weather Identifiers:
 ====================
