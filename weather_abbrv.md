@@ -17,7 +17,9 @@ Weather Identifiers:
 | __SQ__ Squalls Moderate| __SS__ Sandstorm | __TS__ Thunderstorm |
 | __UP__ Unknown Precipitation | __VA__ Volcanic Activity | __VC__ In the Vicinity| 
 
-Modifiers:   - Light      + Heavy     P More than     M Less than      B Began     E Ended
+###Modifiers:
+
+__-__ Light      __+__ Heavy     __P__ More than     __M__ Less than      __B__ Began     __E__ Ended
 
 Sky Conditions:
 
