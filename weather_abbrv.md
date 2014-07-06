@@ -3,25 +3,19 @@ METAR & TAF Weather Report
 Weather Identifiers:
 ====================
 
-|Col1|Col2|
-|------------------------|------------------------|
-|B Began | BC Patches |
-|BL Blowing | BR Mist|
-|DR Low Drifting | DS Dust storm|
-|DU Dust| DZ Drizzle|
-|E   Ended| FC, +FC Funnel Cloud, Well-Developed Funnel Cloud Tornado or Waterspout |
-|FG Fog| |FU Smoke|
-|FZ Freezing| GR Hail|
-|GS Small Hail or Snow Pellets (< 1/4) |HZ Haze|
-|IC Ice Crystal| MI Shallow|
-|PE Ice Pellet| PO Well-Developed Dust/Sand Whirl|
-|PR Partial| PY Spray|
-| RA Rain| SA Sand| 
-|SG Snow Grain| SH Shower|
-|SN Snow| SQ Squalls Moderate|
-| SS Sandstorm| TS Thunderstorm|
-| UP Unknown Precipitation| VA Volcanic A|
-| VC In the Vicinity|   |
+| | | |
+|------------------------|------------------------|----------------|
+| B Began | BC Patches | BL Blowing |
+| BR Mist| DR Low Drifting | DS Dust storm|
+| DU Dust| DZ Drizzle| E Ended|
+| FC, +FC Funnel Cloud, Well-Developed Funnel Cloud Tornado or Waterspout | FG Fog | FU Smoke|
+| FZ Freezing| GR Hail| GS Small Hail or Snow Pellets (< 1/4) |
+| HZ Haze| IC Ice Crystal| MI Shallow|
+| PE Ice Pellet| PO Well-Developed Dust/Sand Whirl | PR Partial|
+| PY Spray | RA Rain | SA Sand | 
+| SG Snow Grain | SH Shower| SN Snow |
+| SQ Squalls Moderate| SS Sandstorm | TS Thunderstorm |
+| UP Unknown Precipitation | VA Volcanic Activity | VC In the Vicinity|   |
 
 Modifiers:   - Light      + Heavy     P More than     M Less than      B Began     E Ended
 
