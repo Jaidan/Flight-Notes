@@ -3,19 +3,17 @@ METAR & TAF Weather Report
 Weather Identifiers:
 ====================
 
-| | | |
-|------------------------|------------------------|----------------|
-| __B__ Began | __BC__ Patches | __BL__ Blowing |
-| __BR__ Mist| __DR__ Low Drifting | __DS__ Dust storm|
-| __DU__ Dust| __DZ__ Drizzle| __E__ Ended|
-| __FC__, __+FC__ Funnel Cloud | __FG__ Fog | __FU__ Smoke|
-| __FZ__ Freezing| __GR__ Hail| __GS__ Snow Pellets (< 1/4) |
-| __HZ__ Haze| __IC__ Ice Crystal| __MI__ Shallow|
-| __PE__ Ice Pellet| __PO__ Dust/Sand Whirl | __PR__ Partial|
-| __PY__ Spray | __RA__ Rain | __SA__ Sand | 
-| __SG__ Snow Grain | __SH__ Shower| __SN__ Snow |
-| __SQ__ Squalls Moderate| __SS__ Sandstorm | __TS__ Thunderstorm |
-| __UP__ Unknown Precipitation | __VA__ Volcanic Activity | __VC__ In the Vicinity | 
+| | | | |
+|------------------------|------------------------|----------------|-----|
+| __B__ Began | __BC__ Patches | __BL__ Blowing | __BR__ Mist |
+| __DR__ Low Drifting | __DS__ Dust storm| __DU__ Dust | __DZ__ Drizzle |
+| __E__ Ended | __+FC__Funnel Cloud | __FG__ Fog | __FU__ Smoke |
+| __FZ__ Freezing | __GR__ Hail | __GS__ Snow Pellets (< 1/4) | __HZ__ Haze |
+| __IC__ Ice Crystal| __MI__ Shallow| __PE__ Ice Pellet | __PO__ Dust/Sand Whirl |
+| __PR__ Partial | __PY__ Spray | __RA__ Rain | __SA__ Sand |
+| __SG__ Snow Grain | __SH__ Shower| __SN__ Snow | __SQ__ Squalls Moderate |
+| __SS__ Sandstorm | __TS__ Thunderstorm | __UP__ Unknown Precipitation | __VA__ Volcanic Activity 
+| __VC__ In the Vicinity | | | |
 
 ###Modifiers:
 
