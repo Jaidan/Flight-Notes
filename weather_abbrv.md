@@ -1,22 +1,21 @@
 METAR & TAF Weather Report
---------------------------
 
 Weather Identifiers:
 ====================
 
 | | | |
 |------------------------|------------------------|----------------|
-| B Began | BC Patches | BL Blowing |
-| BR Mist| DR Low Drifting | DS Dust storm|
-| DU Dust| DZ Drizzle| E Ended|
-| FC, +FC Funnel Cloud, Well-Developed Funnel Cloud Tornado or Waterspout | FG Fog | FU Smoke|
-| FZ Freezing| GR Hail| GS Small Hail or Snow Pellets (< 1/4) |
-| HZ Haze| IC Ice Crystal| MI Shallow|
-| PE Ice Pellet| PO Well-Developed Dust/Sand Whirl | PR Partial|
-| PY Spray | RA Rain | SA Sand | 
-| SG Snow Grain | SH Shower| SN Snow |
-| SQ Squalls Moderate| SS Sandstorm | TS Thunderstorm |
-| UP Unknown Precipitation | VA Volcanic Activity | VC In the Vicinity|   |
+| __B__ Began | __BC__ Patches | __BL__ Blowing |
+| __BR__ Mist| __DR__ Low Drifting | __DS__ Dust storm|
+| __DU__ Dust| __DZ__ Drizzle| __E__ Ended|
+| __FC__, __+FC__ Funnel Cloud, Well-Developed Funnel Cloud Tornado or Waterspout | __FG__ Fog | __FU__ Smoke|
+| __FZ__ Freezing| __GR__ Hail| __GS__ Small Hail or Snow Pellets (< 1/4) |
+| __HZ__ Haze| __IC__ Ice Crystal| __MI__ Shallow|
+| __PE__ Ice Pellet| __PO__ Well-Developed Dust/Sand Whirl | __PR__ Partial|
+| __PY__ Spray | __RA__ Rain | __SA__ Sand | 
+| __SG__ Snow Grain | __SH__ Shower| __SN__ Snow |
+| __SQ__ Squalls Moderate| __SS__ Sandstorm | __TS__ Thunderstorm |
+| __UP__ Unknown Precipitation | __VA__ Volcanic Activity | __VC__ In the Vicinity| 
 
 Modifiers:   - Light      + Heavy     P More than     M Less than      B Began     E Ended
 
