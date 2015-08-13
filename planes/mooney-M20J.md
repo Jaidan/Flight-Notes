@@ -1,4 +1,4 @@
-Cessna M20J notes
+Mooney M20J notes
 ================
 
 Engine
@@ -23,10 +23,10 @@ V Speeds
 |-------|------|-----|
 | Vs0 | 58 | Stall speed in landing configuration. Bottom of white arc |
 | Vs | 62 |  Stall speed in clean configuration. Bottom of green arc |
-| Vr | | Rotate speed |
-| Vx | |  Best angle of climb speed |
-| Vy (sea level) | | Best rate of climb speed |
-| Vy (10,000 ft.) | | Best rate of climb speed at 10,000ft |
+| Vr | 59 | Rotate speed |
+| Vx | 66 |  Best angle of climb speed |
+| Vy (sea level) | 86 | Best rate of climb speed |
+| Vy (10,000 ft.) | 80 | Best rate of climb speed at 10,000ft |
 | Vfe | 112 | Maximum flap extension speed. Top of white arc |
 | Vle | 132 | Maximum gear extended speed. |
 | Vlo(extend) | 132 | Maximum gear extension speed. |
@@ -39,9 +39,9 @@ V Speeds
 | Va (2900 lbs) | 118 | Manuevering speed |
 | Vg (flaps UP) | 84 | Best Glide |
 | Vg (flaps DN) | 75 | Best Glide |
-| Max. Demon. X-Wind | | | |
+| Max. Demon. X-Wind | 11kts | | |
 | Approach (Flaps UP) | | |
-| Approach (Flaps DN) | | |
+| Approach (Flaps DN) | 78 KIAS| |
 | Enroute Climb | | |
 
 Gauge Reference
@@ -87,3 +87,12 @@ Lean for best power
 Vy: 86 KIAS up to 10,000 then 80 KIAS
 Vx: 66 KIAS + 1.0KIAS per 5000 feet
 
+### Descent
+
+Avoid operations between 1500 and 1950 RPM while below 15" MP.  
+Avoid long high speed descents at lot MP to avoid excessive cooling
+
+### Landing
+
+Turn pump on
+Crosswind use airspeed 10 KIAS above normal.  Use 15 flaps for crosswinds less than 10kts and flaps up for greater than 10kts
