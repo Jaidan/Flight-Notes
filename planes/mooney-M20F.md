@@ -38,7 +38,7 @@ V Speeds
 | Va (2740 lbs) | 135 | Manuevering speed |
 | Vg (flaps UP) | 104 | Best Glide |
 | Max. Demon. X-Wind | | | |
-| Approach | 90, 80 | |
+| Approach | 100, 90, 80 | 75 |
 | Enroute Climb | 115-120 | |
 
 Gauge Reference
